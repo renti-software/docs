@@ -1,11 +1,9 @@
-
 ## Divisão de Roles
 
 **Team manager**: Tomás Costa  
 **DevOps master**: João Marques  
-**Product owner**: Francisco Jesus   
+**Product owner**: Francisco Jesus  
 **Developer**: Todos  
-
 
 **Backend**: Francisco e João  
 **Frontend**: Tomás e Miguel  
