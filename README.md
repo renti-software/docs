@@ -29,7 +29,7 @@ Tudo em containers Docker, gerido pelo Docker Compose.
 ## Ferramentas e Práticas
 
 **Gestão de versões**: GitLab  
-**Testes**: SpringBoot Tests + Selenium UI Test  
-**Gestão de tarefas / Backlog**: Gitlab Boards  
+**Testes**: (TBD) SpringBoot Tests + Selenium UI Test  
+**Gestão de tarefas / Backlog**: Gitlab Boards ou Jira  
 **CI/CD**: GitLab CI/CD  
 **Monitorização**: Zabbix/Kibana e Slack  
