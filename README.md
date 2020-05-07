@@ -1,14 +1,14 @@
 
 ## Divisão de Roles
 
-**Team manager**: Tomás Costa
-**DevOps master**: João Marques
-**Product owner**: Francisco Jesus 
-**Developer**: Todos
+**Team manager**: Tomás Costa  
+**DevOps master**: João Marques  
+**Product owner**: Francisco Jesus   
+**Developer**: Todos  
 
 
-**Backend**: Francisco e João
-**Frontend**: Tomás e Miguel
+**Backend**: Francisco e João  
+**Frontend**: Tomás e Miguel  
 
 ## Conceito
 
@@ -30,8 +30,8 @@ Tudo em containers Docker, gerido pelo Docker Compose.
 
 ## Ferramentas e Práticas
 
-**Gestão de versões**: GitLab
-**Testes**: SpringBoot Tests + Selenium UI Test
-**Gestão de tarefas / Backlog**: Gitlab Boards
-**CI/CD**: GitLab CI/CD
-**Monitorização**: Zabbix/Kibana e Slack
+**Gestão de versões**: GitLab  
+**Testes**: SpringBoot Tests + Selenium UI Test  
+**Gestão de tarefas / Backlog**: Gitlab Boards  
+**CI/CD**: GitLab CI/CD  
+**Monitorização**: Zabbix/Kibana e Slack  
