@@ -24,7 +24,7 @@ Desta forma podemos: gastar menos, ajudar o ambiente e fazer dinheiro!
 
 ![](images/image1.png)
 
-Tudo em containers Docker, gerido pelo Docker Compose.
+Tudo em containers Docker, gerido pelo Docker Compose.  
 
 ## Ferramentas e Práticas
 
