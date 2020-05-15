@@ -40,7 +40,7 @@ Desta forma podemos: gastar menos, ajudar o ambiente e fazer dinheiro!
 
 ### Arquitetura + Tecnologias
 
-![](images/image1.png)
+![](assets/images/arch.png)
 
 Tudo em containers Docker, gerido pelo Docker Compose.  
 
