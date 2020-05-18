@@ -31,12 +31,12 @@ We are experiencing GitLab instead of Jira, to expand our technology stack, and 
 ### Related Repositories
 This [group](https://gitlab.com/renti-software) is subdivided in 6 repositories:  
 
-    * Renti (Serves as main repository, for backlog management and reporting)
-    * Backend 
-    * External API 
-    * Frontend-Mobile
-    * Frontend-Web 
-    * Compose
+* Renti (Serves as main repository, for backlog management and reporting)  
+* Backend  
+* External API  
+* Frontend-Mobile  
+* Frontend-Web  
+* Compose  
 
 ### API Documentation
  Still TBD
